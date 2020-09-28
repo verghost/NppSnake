@@ -1,0 +1,5 @@
+src/.vs
+src/x64
+src/x86
+src/NppSnake.vcxproj.user
+src/plRes.aps
